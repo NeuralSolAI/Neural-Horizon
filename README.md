@@ -68,6 +68,6 @@ The `postContentToTwitter` function formats and posts the multimedia content usi
 ### Automation
 
 The bot uses `setInterval` to schedule daily posts. The posting frequency can be adjusted by modifying the interval in the `setInterval` function.
-"""
+ 
 
 
